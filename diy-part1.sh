@@ -17,3 +17,4 @@
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 git clone https://github.com/pexcn/openwrt-chinadns-ng.git package/chinadns-ng
 git clone -b luci https://github.com/w311ang/openwrt-chinadns-ng.git package/luci-app-chinadns-ng
+git clone https://github.com/pexcn/openwrt-dns2tcp.git package/dns2tcp
