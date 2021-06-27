@@ -1,3 +1,7 @@
+1. 恢复出厂选择`OpenWrt`
+2. 刷机固件选择`斐讯`布局刷入`sysupgrade`<sup>[1](https://mary.kevinmx.tk/archives/k2p.html) [2](https://github.com/DreamWalkerXZ/Actions-OpenWrt-K2P#用法)</sup>
+
+<font color="red">千万不要开启UPnP服务，开启一次后将会导致`I/O Error`错误，重启恢复出厂均无法修复，必须重新刷机</font>
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
