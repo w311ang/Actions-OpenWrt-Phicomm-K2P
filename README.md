@@ -1,7 +1,7 @@
 1. 恢复出厂选择`OpenWrt`
 2. 刷机固件选择`斐讯`布局刷入`sysupgrade`<sup>[1](https://archive.is/nWJ5X) [2](https://github.com/DreamWalkerXZ/Actions-OpenWrt-K2P#用法)</sup>
 
-关闭Passwall日志和UPnP可以有效提升稳定性
+关闭PassWall日志和UPnP可以有效提升稳定性
 
 # Actions-OpenWrt
 
