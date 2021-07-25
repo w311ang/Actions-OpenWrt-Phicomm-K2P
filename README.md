@@ -3,7 +3,7 @@
 
 关闭PassWall日志和UPnP可以有效提升稳定性
 
-https://github.com/xiaorouji/openwrt-passwall/issues/1329#issuecomment-886199864
+## [特性](https://github.com/w311ang/lede#%E7%89%B9%E8%89%B2)
 
 # Actions-OpenWrt
 
